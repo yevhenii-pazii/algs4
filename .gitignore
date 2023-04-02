@@ -1,2 +1,2 @@
 .idea/
-/src/main/java/hello.zip
+/src/**/*.zip
